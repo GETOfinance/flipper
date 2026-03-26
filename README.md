@@ -788,22 +788,6 @@ struct RiskProfile {
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Smart Contracts** | Solidity 0.8.24, OpenZeppelin, Hardhat 2.22.17 |
-| **AI Reasoning** | Multi-LLM support (OpenAI, OpenRouter, LM Studio, Ollama, Groq) with heuristic fallback |
-| **Strategy System** | Custom implementation following OpenClaw architecture with multi-protocol support (Uniswap V2/V3, SushiSwap, Aave V3) |
-| **DEX Integration** | Uniswap V2/V3 Router + Factory, SushiSwap (on-chain reads) |
-| **Lending Integration** | Aave V3 Pool with health factor monitoring |
-| **Risk Engine** | 5-vector weighted scoring, configurable thresholds, slippage calculation |
-| **Live Data** | CoinGecko (price/volume), DeFiLlama (TVL/liquidity) |
-| **Frontend** | Next.js 14, Tailwind CSS, ethers.js v6, Vercel |
-| **Blockchain** | Ethereum Sepolia Testnet, Etherscan verification |
-| **Testing** | Hardhat + Chai (54 tests) + 13-phase on-chain demo + strategy system tests |
-
----
 
 ## 🔒 Security
 
