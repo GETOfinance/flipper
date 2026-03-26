@@ -109,15 +109,25 @@ Flipper Protocol implements a comprehensive strategy system following **OpenClaw
 ### Key Features
 
 ✅ **Clear Abstraction**: Separation between strategy planning and execution
+
 ✅ **Risk Awareness**: Comprehensive risk assessment and monitoring
+
 ✅ **Protocol Awareness**: Full awareness of DEX, lending, and vault protocol states
+
 ✅ **Slippage Protection**: Dynamic slippage calculation and protection
+
 ✅ **Health Factor Monitoring**: Real-time health factor tracking for lending positions
+
 ✅ **AI-Powered**: LLM-powered strategy generation
+
 ✅ **Priority-Based Execution**: Critical actions executed first
+
 ✅ **Comprehensive Metrics**: Full tracking of execution metrics
+
 ✅ **Multi-Protocol Support**: Uniswap V2/V3, SushiSwap, Aave V3
+
 ✅ **Gas Optimization**: Intelligent gas price optimization
+
 
 
 ## 💰 USDT Integration
